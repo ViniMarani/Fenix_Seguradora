@@ -1,0 +1,15 @@
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\bin\Debug\net6.0\Pim_Seguradora.exe
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\bin\Debug\net6.0\Pim_Seguradora.deps.json
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\bin\Debug\net6.0\Pim_Seguradora.runtimeconfig.json
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\bin\Debug\net6.0\Pim_Seguradora.dll
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\bin\Debug\net6.0\Pim_Seguradora.pdb
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.dll
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\refint\Pim_Seguradora.dll
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.pdb
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\Pim_Seguradora.genruntimeconfig.cache
+C:\Users\vinic\source\repos\Pim_Seguradora\Pim_Seguradora\obj\Debug\net6.0\ref\Pim_Seguradora.dll
